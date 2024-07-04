@@ -1,19 +1,22 @@
-
+![hero](https://github.com/ellisoalgo/ellisoalgo/blob/main/hero.png)
 
 <h1 align="center">Hi 👋, I'm Ellis.</h1>
 <h3 align="center">A creative frontend developer based in Barcelona.</h3>
 
-- 🔭 I’m currently working on **my personal website**
+<p>I am a front-end developer, graphic designer and multidisciplinary artist. I love to combine visual and creative ideas with the functionality and logic of web development to create unique projects.</p>
+<p>I have recently completely a bootcamp in Web Development with <a href="https://github.com/adalab">Adalab</a> and I'm now looking to collaborate on projects and to join a team a a junior front-end developer to continue to evolve and expand my knowledge and skills.</p>
 
-- 🌱 I’m currently learning **UX/UI**
+You can reach me at **hey@elliswhitney.com**!
 
-- 👯 I’m looking to collaborate on **personal websites, creative and educational apps.**
+***
 
-- 👨‍💻 All of my projects are available at [www.github.com/ellisoalgo](www.github.com/ellisoalgo)
+<h3>Current Projects:</h3>
 
-- 📫 How to reach me **hey@elliswhitney.com**
+<p>I'm currently working on my personal website, and small apps that help me practice my programming skills and stop me from getting rusty.</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ellisoalgo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p>You can check out my project on my profile. If you have any notes or suggestions, I'd be super happy to hear them!</p>
+
+***
 
 <h3 align="left">Languages, Tools & Skills:</h3>
 
@@ -39,9 +42,15 @@
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
+***
 
+<h3>Stats:</h3>
 
-<h3 align="left">Connect with me:</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ellisoalgo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+***
+
+<h3 align="left">Hit me up:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ellisjwhitney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellisjwhitney" height="30" width="40" /></a>
 <a href="https://instagram.com/ellisoalgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ellisoalgo" height="30" width="40" /></a>
