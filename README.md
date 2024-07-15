@@ -44,12 +44,6 @@ You can reach me at **hey@elliswhitney.com**!
 
 ***
 
-<h3>Stats:</h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ellisoalgo&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-***
-
 <h3 align="left">Hit me up:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ellisjwhitney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellisjwhitney" height="30" width="40" /></a>
